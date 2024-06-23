@@ -1,4 +1,4 @@
-Clone the Repository, git clone -- https://github.com/your-username/ourtestimonials.git
+Clone the Repository, git clone -- https://github.com/your-username/topcourses.git
 
 Install Dependencies -- npm install
 
